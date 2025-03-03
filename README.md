@@ -1,10 +1,14 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-# Godot Engine Project CI/CD Pipeline
+# Godot Engine Project CI/CD Pipeline 👷
 
-Godot game build, test, release GitHub actions (itch.io, web, etc.)
+![DevOpsDots](https://github.com/user-attachments/assets/1d6f3bb7-cbe5-4255-962f-95bf1756bd9b)
 
-# Release & Platform Integrations
+Godot build, test, and release GitHub actions (itch.io, web, etc.)
+
+# Distributor Integrations
+
+These platforms and distributors are currently supported:
 
 | Platform | Distributor | Status |
 | --- | --- | --- |
@@ -13,7 +17,9 @@ Godot game build, test, release GitHub actions (itch.io, web, etc.)
 | iOS, MacOS | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) | in progress |
 | Web (HTML & JavaScript) | ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) | ☑️ |
 
-# Features
+# Features 💡
+
+This project provides the following features:
 
 - Godot 4.x support
 - GUT for automated testing
