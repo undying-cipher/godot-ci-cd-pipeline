@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://d0hq17jdtvvpx"]
+
+[ext_resource type="PackedScene" uid="uid://vth2m2rlj8eq" path="res://entities/spacecraft.tscn" id="1_n5cd4"]
+
+[node name="Level0001" type="Node2D"]
+
+[node name="spacecraft" parent="." instance=ExtResource("1_n5cd4")]
+position = Vector2(579, 546)
