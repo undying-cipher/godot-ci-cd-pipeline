@@ -17,6 +17,7 @@ These platforms and distributors are currently supported:
 | SteamOS (Proton Linux), Windows, MacOS, Linux | ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) | in progress |
 | iOS, MacOS | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) | in progress |
 | Web (HTML & JavaScript) | ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) | ☑️ |
+| Web (HTML & JavaScript container image) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | in progress |
 
 # Features 💡
 
