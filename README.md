@@ -27,3 +27,8 @@ This project provides the following features:
 - GUT for automated testing
 - Supports Godot addons
 - Automated releases
+
+# Tutorials & Documentation 📚
+
+Official GitHub Actions documentation
+https://docs.github.com/en/actions/writing-workflows/quickstart
