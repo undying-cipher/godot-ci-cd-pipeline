@@ -4,7 +4,8 @@
 
 ![DevOpsDots](https://github.com/user-attachments/assets/1d6f3bb7-cbe5-4255-962f-95bf1756bd9b)
 
-Godot build, test, and release GitHub actions (itch.io, web, etc.)
+Automates your CI/CD pipelines, so you can focus on developing games.
+Godot build, test, and release GitHub actions (itch.io, web, etc.).
 
 # Distributor Integrations
 
