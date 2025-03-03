@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://vth2m2rlj8eq"]
+
+[ext_resource type="Script" path="res://entities/spacecraft.gd" id="1_a3kvo"]
+[ext_resource type="Texture2D" uid="uid://doruu7ixwoomg" path="res://assets/sprites/missile cat.png" id="2_frc58"]
+
+[node name="spacecraft" type="Node2D"]
+script = ExtResource("1_a3kvo")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.2, 0.2)
+texture = ExtResource("2_frc58")
