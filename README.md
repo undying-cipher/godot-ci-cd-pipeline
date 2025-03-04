@@ -1,6 +1,8 @@
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+[![godot-ci export](https://github.com/undying-cipher/godot-ci-cd-pipeline/actions/workflows/godot-ci-build-project.yml/badge.svg)](https://github.com/undying-cipher/godot-ci-cd-pipeline/actions/workflows/godot-ci-build-project.yml)
 
 # Godot Engine Project CI/CD Pipeline 👷
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ![DevOpsDots](https://github.com/user-attachments/assets/1d6f3bb7-cbe5-4255-962f-95bf1756bd9b)
 
